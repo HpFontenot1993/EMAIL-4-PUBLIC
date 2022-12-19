@@ -1,0 +1,87 @@
+body{
+   background-color: rgba(173, 214, 221, 0.966);
+}
+.one{
+    text-align: center;
+    background-color: rgb(231, 221, 221);
+     width:100%;
+    height:auto;
+    border-style: inset;
+    border-color:blue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:large;
+    display:list-item 50%;
+    
+
+}
+
+.two{
+    text-align: center;
+    background-color: rgb(231, 221, 221);
+    width:100%;
+    height:auto;
+    display:list-item 50%;
+
+}
+
+.three{
+    text-align: center;
+    background-color: rgb(231, 221, 221);
+    width:100%;
+    height:auto;
+    font-size: larger;
+    font-weight: bolder;
+    color: blueviolet;
+    border-width: 5px;
+    border-color:blue;
+    border-style: inset;
+    display:list-item 50%;
+}
+
+.snowboarding{
+    max-width: 300px;
+   
+    min-width:0;
+    margin: 10px;
+    padding:10px;
+    font-weight: bold;
+    text-align: center;
+    border-style: outset;
+    border-color: rgb(147, 147, 224);
+    display:list-item 50%;
+    
+    
+
+}
+
+.courthouse{
+    max-width: 300px;
+    min-width:0;
+    margin: 10px;
+    padding:10px;
+    font-weight: bold;
+    text-align: center;
+    border-style: outset;
+    border-color: rgb(147, 147, 224);
+    display:list-item 50%;
+
+}
+
+.polar{
+    max-width: 300px;
+    min-width:0;
+    margin: 10px;
+    padding:10px;
+    font-weight: bold;
+    text-align: center;
+    border-style: outset;
+    border-color: rgb(147, 147, 224);
+    display:list-item 50%;
+
+}
+
+footer{
+    text-align: center;
+    color:blue;
+    padding:10px;
+}
